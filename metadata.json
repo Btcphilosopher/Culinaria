@@ -1,0 +1,6 @@
+{
+  "name": "Culinaria OS",
+  "description": "Domestic culinary operating system for modern Anglo-futurist households, blending British tradition, industrial design, and culinary intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
